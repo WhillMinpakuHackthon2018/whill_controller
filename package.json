@@ -1,0 +1,26 @@
+{
+  "name": "whill_controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhillMinpakuHackthon2018/whill_controller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhillMinpakuHackthon2018/whill_controller/issues"
+  },
+  "homepage": "https://github.com/WhillMinpakuHackthon2018/whill_controller#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "mock-require": "^3.0.2"
+  },
+  "dependencies": {
+    "obniz": "^1.11.2"
+  }
+}
